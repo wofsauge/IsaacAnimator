@@ -16,3 +16,6 @@ C:\Users\Jan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Wind
 C:\Users\Jan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Isaac_Animator.Animatron.resources
 C:\Users\Jan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\IsaacAnimator.Properties.Resources.resources
 C:\Users\Jan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\IsaacAnimator.csproj.GenerateResource.Cache
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\IsaacAnimator\WindowsFormsApplication1\bin\Debug\IsaacAnimator.exe.config
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\IsaacAnimator\WindowsFormsApplication1\obj\Debug\IsaacAnimator.exe
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\IsaacAnimator\WindowsFormsApplication1\obj\Debug\IsaacAnimator.pdb
